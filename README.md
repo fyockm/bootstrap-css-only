@@ -5,6 +5,8 @@ This is a Bower component for [Bootstrap](http://getbootstrap.com/) CSS library 
 
 Similar to [Bootstrap Assets](https://github.com/srigi/html-bootstrap-assets) but without the js and jQuery.
 
+With 3.0.1 and above, the glyphicons are included as well.
+
 ## Installation:
 
 `bower install bootstrap-css-only`
@@ -14,4 +16,6 @@ Similar to [Bootstrap Assets](https://github.com/srigi/html-bootstrap-assets) bu
 
 ```
 bower install bootstrap-css-only#2.3.2
+bower install bootstrap-css-only#3.0.0
+...
 ```
