@@ -2,8 +2,6 @@
 
 This is a Bower component for [Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO bower depenedency on jQuery. Perfect companion for [Angular-UI Bootstrap](https://github.com/angular-ui/bootstrap-bower).
 
-Similar to [Bootstrap Assets](https://github.com/srigi/html-bootstrap-assets) but without the js and jQuery.
-
 With 3.0.1 and above, the glyphicons are included as well.
 
 ## Installation:
