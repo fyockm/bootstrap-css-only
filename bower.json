@@ -12,7 +12,8 @@
     "fonts/glyphicons-halflings-regular.eot",
     "fonts/glyphicons-halflings-regular.svg",
     "fonts/glyphicons-halflings-regular.ttf",
-    "fonts/glyphicons-halflings-regular.woff"
+    "fonts/glyphicons-halflings-regular.woff",
+    "fonts/glyphicons-halflings-regular.woff2"
   ],
   "homepage": "http://getbootstrap.com/",
   "author": {
