@@ -1,5 +1,6 @@
 {
   "name": "bootstrap-css-only",
+  "version": "3.3.4",
   "description": "Bower component for [Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO bower depenedency on jQuery.",
   "keywords": [
     "twitter",
