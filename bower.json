@@ -16,6 +16,7 @@
     "fonts/glyphicons-halflings-regular.woff2"
   ],
   "homepage": "http://getbootstrap.com/",
+  "license": "MIT",
   "author": {
     "name": "Twitter Inc."
   },
