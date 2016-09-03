@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-css-only",
   "description": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO bower depenedency on jQuery.",
-  "version": "3.3.6",
+  "version": "3.3.7",
   "author": "Twitter, Inc.",
   "bugs": {
     "url": "https://github.com/fyockm/bootstrap-css-only/issues"
