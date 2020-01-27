@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-css-only",
   "description": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery.",
-  "version": "4.3.1",
+  "version": "4.4.1",
   "author": "Twitter, Inc.",
   "bugs": {
     "url": "https://github.com/fyockm/bootstrap-css-only/issues"
