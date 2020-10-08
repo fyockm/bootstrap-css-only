@@ -20,7 +20,7 @@ $ npm install bootstrap-css-only
 ```
 
 ### Previous Bootstrap versions also available:
-You can request info for a specific version with 'bower info bootstrap-css-only#<version>'
+You can request info for a specific version with 'bower info bootstrap-css-only# for the installation<version>'
 
 ```bash
 $ bower install bootstrap-css-only#2.3.2
