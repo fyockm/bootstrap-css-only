@@ -1,6 +1,6 @@
 # Bootstrap CSS only
 
-A Bower and NPM component for [Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery. Perfect companion for [Angular-UI Bootstrap](https://github.com/angular-ui/bootstrap-bower).
+A Bower and NPM component for [Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery. Perfect companion for [NGX-Bootstrap](https://valor-software.com/ngx-bootstrap/).
 
 - With 3.0.1 and above, the glyphicons are included as well.
 - Starting with version 3.3.5, package is available on NPM also.
@@ -25,6 +25,7 @@ You can request info for a specific version with 'bower info bootstrap-css-only#
 ```bash
 $ bower install bootstrap-css-only#2.3.2
 $ bower install bootstrap-css-only#3.0.0
+$ bower install bootstrap-css-only#4.0.0
 ...
 ```
 
