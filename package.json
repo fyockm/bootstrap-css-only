@@ -4,7 +4,7 @@
   "version": "5.1.0",
   "author": "Twitter, Inc.",
   "bugs": {
-    "url": "https://github.com/guaycuru/bootstrap-css-only/issues"
+    "url": "https://github.com/fyockm/bootstrap-css-only/issues"
   },
   "files": [
     "css",
@@ -23,7 +23,7 @@
   "main": "css/bootstrap.min.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guaycuru/bootstrap-css-only.git"
+    "url": "git+https://github.com/fyockm/bootstrap-css-only.git"
   },
   "style": "css/bootstrap.css"
 }
